@@ -1,5 +1,6 @@
 # Aditya Pandey
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech4Aditya)](https://github.com/Tech4Aditya/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=radical)
 
 <!--
 **Tech4Aditya/Tech4Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
