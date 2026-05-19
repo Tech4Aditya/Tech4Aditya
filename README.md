@@ -85,27 +85,16 @@ Building full-stack projects, AI tools, and open-source software with a focus on
 ---
 
 
-# 📊 Developer Metrics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech4Aditya&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tech4Aditya&theme=tokyonight" />
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tech4Aditya&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-
----
-
-# 📊 GitHub Overview
-
-<p align="center">
-  
-[![Aditya's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=tokyonight)](https://github.com/Tech4Aditya)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tech4Aditya&theme=tokyonight&utcOffset=5.5" height="180em"/>
 </p>
 
 ---
