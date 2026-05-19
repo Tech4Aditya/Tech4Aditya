@@ -123,12 +123,6 @@ Building full-stack projects, AI tools, and open-source software with a focus on
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech4Aditya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech4Aditya&theme=tokyonight&hide_border=true" />
 </p>
 
