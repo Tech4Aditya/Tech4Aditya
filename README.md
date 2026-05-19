@@ -5,14 +5,14 @@ Building full-stack projects, AI tools, and open-source software with a focus on
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;ECE+Student+at+JIIT;Building+Projects+That+Actually+Matter;AI+%2B+Web+Development;Learning+By+Shipping+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Bachelor+Of+Technology+Student+at+JIIT;Building+Projects+That+Actually+Matter;AI+%2B+Web+Development;Learning+By+Shipping+Products" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 ECE Student at **JIIT**
+- 🎓 B.Tech Student at **JIIT**
 - 💻 Focused on **Full Stack Development, AI Tools & Open Source**
 - ⚡ Building projects instead of endlessly consuming tutorials
 - 🌱 Currently learning:
