@@ -1,34 +1,173 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">A web developer actively learning about code and experimenting stuff related to the massive world of tech, The merger of electronics with computer science and rapidly exploring open source repositories.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech4aditya&label=Profile%20views&color=0e75b6&style=flat" alt="tech4aditya" /> </p>
+<h3 align="center">
+Building full-stack projects, AI tools, and open-source software with a focus on real-world impact.
+</h3>
 
-- 🔭 I’m currently working on [SGPA ESTIMATOR](https://github.com/Tech4Aditya/SGPA_Estimator)
-
-- 🌱 I’m currently learning **Stacks, Programming Languages**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Tech4Aditya](https://github.com/Tech4Aditya)
-
-- 📝 I regularly write articles on [linkedin.com/in/tech-aditya/](linkedin.com/in/tech-aditya/)
-
-- 📫 How to reach me **techaditya.workmail@gmail.com**
-
-- ⚡ Fun fact **ECE and CSE are never my cup of tea**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tech-aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tech-aditya" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/201301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="201301" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;ECE+Student+at+JIIT;Building+Projects+That+Actually+Matter;AI+%2B+Web+Development;Learning+By+Shipping+Products" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tech4Aditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tech4Aditya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech4Aditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tech4Aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎓 ECE Student at **JIIT**
+- 💻 Focused on **Full Stack Development, AI Tools & Open Source**
+- ⚡ Building projects instead of endlessly consuming tutorials
+- 🌱 Currently learning:
+  - Advanced React Ecosystem
+  - Backend Architecture
+  - System Design
+  - DSA & Problem Solving
+- 🎯 Goal: Become a top-tier software engineer with strong development fundamentals
 
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+</p>
+
+---
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" />
+</p>
+
+---
+
+### Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" />
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" />
+</p>
+
+---
+
+
+# 📊 Developer Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech4Aditya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tech4Aditya&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tech4Aditya&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+---
+
+# 🐍 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| **Jarvis AI** | AI-powered desktop/web assistant capable of automation and smart interaction workflows | Python, HTML, CSS, JavaScript |
+| **SGPA Simulator** | Smart SGPA prediction and estimation platform for students | React, Firebase |
+| **CDH Dispatch** | Dispatch and workflow management system focused on operational efficiency | MERN Stack |
+| **Sendly** | Instant file sharing platform with seamless UX | Next.js, Tailwind |
+| **Smart Revaluation System** | Academic revaluation workflow automation platform | MERN Stack |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech4Aditya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech4Aditya&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech4Aditya&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/tech-aditya">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+</a>
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="mailto:techaditya.workmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="65"/>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+# 💡 Philosophy
+
+```txt
+Build > Consume
+Ship > Perfect
+Consistency > Motivation
