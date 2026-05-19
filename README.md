@@ -100,6 +100,16 @@ Building full-stack projects, AI tools, and open-source software with a focus on
 
 ---
 
+# 📊 GitHub Overview
+
+<p align="center">
+  
+[![Aditya's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Tech4Aditya&show_icons=true&theme=tokyonight)](https://github.com/Tech4Aditya)
+
+</p>
+
+---
+
 # 🐍 Contribution
 
 <p align="center">
